@@ -3,7 +3,7 @@
 This is a **Django-based Article Management System** with a **frontend**. The project provides features for managing articles, user authentication, and roles (Journalist, Editor, and Admin). It includes both public and private interfaces for users.
 
 ---
-
+  
 ## Features
 
 ### Backend Features (Django):
